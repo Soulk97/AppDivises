@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppDivises</string>
+    <string name="euroToDollar">Euros To Dollars</string>
+    <string name="euro">Euro</string>
+    <string name="dollar">Dollar</string>
+    <string name="dollarToEuro">Dollars to Euros</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="switchText">Switch Currency</string>
+    <string name="result">Resultat</string>
+</resources>
